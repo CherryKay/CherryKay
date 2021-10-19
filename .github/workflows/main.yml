@@ -1,36 +1,52 @@
-# This is a basic workflow to help you get started with Actions
+# This is a BASIC WORKFLOW to HELP YOU get started with ACTIONS
 
-name: CherryKay (Kassandra)
+NAME: CHERRYKAY (KASSANDRA)
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+#- CONTROLS WHEN THE WORKFLOW WILL RUN
+ON:
+  #- TRIGGERS the WORKFLOW on PUSH or PULL REQUEST EVENTS,
+ BUT ONLY for THE MAIN BRANCH 
+PUSH:
+    BRANCHES: [ MAIN ]
+  PULL_REQUEST:
+    BRANCHES: [ MAIN ]
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+# ALLOWS YOU to RUN this WORKFLOW MANUALLY 
+from the ACTIONS TAB
+  WORKFLOW_DISPATCH:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+# A WORKFLOW RUN is MADE UP of ONE or MORE JOBS THAT
+ CAN run SEQUENTIALLY or IN PARALLEL
+JOBS:
+  # THIS WORKFLOW CONTAINS a SINGLE JOB
+  called "build"
+  BUILD:
+    # The TYPE of RUNNER that THE JOBb WILL RUN ON
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+    # STEPS REPRESENT a SEQUENCE of TASKS that will be EXECUTED
+       AS PART of THE JOB
+    STEPS:
+      # Checks-out your REPOSITORY UNDER $GITHUB_WORKSPACE,
+   so YOUR JOB can Access IT
+      - USES: ACTIONS/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+ # Runs a single command USING The RUNNERS SHELL
+  - NAME: CHERRYKAY
+    RUN: HELLO, WORLD!
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+ # RUNS a SET of COMMANDS USING the RUNNERS SHELL
+  
+
+- NAME: CHERRYKAY
+# RUN: Take ACTION to BUILD a CIVILIAN WEBSITE so that EACH Person
+ HAS ACCESS to All of The Government Officials and are ABLE to MAKE their
+VOICES HEARD,AS WELL AS,'ALL GOVERNMENT OFFICIALS' HAVING LITTLE TO NO
+CHOICE EXCEPT FOR'RESPONDING TO THE PEOPLES'
+ Issues, Questions and Concerns In a Timely Manner"!
+
+- ACTIONS to BUILD
+ # RUN THIS ACTION "UP THE GOVERNMENT OFFICIALS'FLAG POLES".
+    
+- PROJECT'S NAME: "THE GOVERNMENT CARES"
+         
